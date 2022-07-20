@@ -1,9 +1,8 @@
-### Greetings! 👋 I'm Mandy Tadros.
-
-👩🏽‍💻 I'm a developer at [Crema](https://www.crema.us/).
+### Greetings 👽! I'm Mandy Tadros 👋
 
 
-And I spend most of my days in the wonderful world of these tools.
+#### 👩🏽‍💻 About Me
+I'm an Industrial Engineer turned Consultant turned Web Developer. I work at this awesome company - [Crema](https://www.crema.us/) and have over 4 years of experience working in the wonderful world of these tools.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
