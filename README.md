@@ -10,6 +10,7 @@ I'm an Industrial Engineer turned Consultant turned Web Developer. I work at thi
 
 #### 📚 Currently Reading
 [A Philosophy of Software Design](https://archive.org/details/a-philosophy-of-software-design/mode/1up?view=theater)
+
 [Clean Architechrure](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311) 
 
 ### 🧠 Currently Pondering
