@@ -1,7 +1,7 @@
 ### Greetings 👽!
 
 #### 👩🏽‍💻 About Me
-I'm an Industrial Engineer turned Consultant turned Web Developer. I work at this awesome company - [Crema](https://www.crema.us/) and have over 4 years of experience working in the wonderful world of these tools.
+I'm an Industrial Engineer turned Consultant turned Web Developer. I work at this awesome company - [Crema](https://www.crema.us/) and have 5 years of experience working in the wonderful world of these tools.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -9,8 +9,15 @@ I'm an Industrial Engineer turned Consultant turned Web Developer. I work at thi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### 📚 Currently Reading
+[A Philosophy of Software Design](https://archive.org/details/a-philosophy-of-software-design/mode/1up?view=theater)
 [Clean Architechrure](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311) 
 
+### 🧠 Currently Pondering
+[Managing Complexity in Software](https://gotopia.tech/articles/174/expert-talk-managing-complexity-in-software)
+[Simplicity & Complexity: The Beauty & the Beast?](https://gotopia.tech/articles/205/simplicity-and-complexity-the-beauty-and-the-beast)
+
+### 🎵 Currently Listening to 
+[Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk?si=X6UVKnt7T8G-yCGiaBfVAA)
 
 <!--
 **amtadros/amtadros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
