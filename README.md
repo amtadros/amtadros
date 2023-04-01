@@ -14,6 +14,7 @@ I'm an Industrial Engineer turned Consultant turned Web Developer. I work at thi
 
 ### 🧠 Currently Pondering
 [Managing Complexity in Software](https://gotopia.tech/articles/174/expert-talk-managing-complexity-in-software)
+
 [Simplicity & Complexity: The Beauty & the Beast?](https://gotopia.tech/articles/205/simplicity-and-complexity-the-beauty-and-the-beast)
 
 ### 🎵 Currently Listening to 
