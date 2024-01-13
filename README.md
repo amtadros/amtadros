@@ -1,4 +1,4 @@
-### Greetings 👽!
+### Hello 👋🏽
 
 #### 👩🏽‍💻 About Me
 I'm an Industrial Engineer turned Consultant turned Web Developer. I work at this awesome company - [Crema](https://www.crema.us/) and have 5 years of experience working in the wonderful world of these tools.
