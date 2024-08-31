@@ -1,7 +1,7 @@
 ### Hello 👋🏽
 
 #### 👩🏽‍💻 About Me
-I'm an Industrial Engineer turned Web Developer. I work at this awesome company - [Crema](https://www.crema.us/) and have 6 years of experience working in the wonderful world of these tools.
+I'm an Industrial Engineer turned Web Developer. I work at this awesome company - [Crema](https://www.crema.us/) and have over 6 years of experience working in the wonderful world of these tools.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
