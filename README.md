@@ -19,7 +19,7 @@ I'm an Industrial Engineer turned Web Developer. I work at this awesome company 
 [Simplicity & Complexity: The Beauty & the Beast?](https://gotopia.tech/articles/205/simplicity-and-complexity-the-beauty-and-the-beast)
 
 #### 🎵 Currently Listening to 
-[Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk?si=X6UVKnt7T8G-yCGiaBfVAA)
+[Bombay Bicycle Club]([https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk?si=X6UVKnt7T8G-yCGiaBfVAA](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV?si=tItkmfW4ROCIuF33zQZHoA))
 
 <!--
 **amtadros/amtadros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
